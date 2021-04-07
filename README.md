@@ -1,2 +1,4 @@
-# Tela Login
- Tela de Login com FlexBox e Media Queries
+# Tela de Login #
+ Primeiro projeto feito:
+ 
+ Uma tela de Login feita com os conhecimentos adquiridos em FlexBox e Media Queries.
